@@ -1,3 +1,11 @@
 # Functionality
-Photovoltaic (PV) cells are used to extract solar energy, which is then boosted by a boost converter to match the required electrical voltage. An inverter is employed to convert the DC voltage to AC voltage, enabling the operation of a water pump.
+Photovoltaic (PV) cells are used to extract solar energy, which is then boosted by a boost converter to match the required electrical voltage. An inverter is employed to convert the DC voltage to AC voltage, enabling the operation of a water pump. Thus, battery is used to store the energy.
 A microcontroller receives input from a moisture sensor and operates the water pump using the converted electrical energy. Additionally, a Light Dependent Resistor (LDR) sensor is connected to the microcontroller, allowing a servo motor to adjust the orientation of the solar panel towards the direction with the most sunlight.
+
+# Advantages
+Environment friendly
+The energy can be stored and used for later purpose
+pv cells have larger life span for about 25 years
+
+# Challenges
+The accuracy decreased because we did not use actual solar panels and solar lights.
